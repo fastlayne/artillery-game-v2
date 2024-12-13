@@ -1,10 +1,1 @@
-import pygame as pg
-import sys
-from game.core import Game
-
-def main():
-    game = Game()
-    game.run()
-
-if __name__ == '__main__':
-    main()
+aW1wb3J0IHB5Z2FtZSBhcyBwZwppbXBvcnQgc3lzCmZyb20gZ2FtZS5jb3JlIGltcG9ydCBHYW1lCgpkZWYgbWFpbigpOgogICAgZ2FtZSA9IEdhbWUoKQogICAgZ2FtZS5ydW4oKQoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQ==
